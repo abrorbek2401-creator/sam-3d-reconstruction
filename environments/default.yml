@@ -2,7 +2,6 @@ name: sam3d-objects
 channels:
   - conda-forge
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
   - alsa-lib=1.2.13=hb9d3cd8_0
   - attr=2.5.1=h166bdaf_1
