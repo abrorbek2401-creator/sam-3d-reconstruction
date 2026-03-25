@@ -150,3 +150,4 @@ If you use SAM 3D Objects in your research, please use the following BibTeX entr
       url={https://arxiv.org/abs/2511.16624}, 
 }
 ```
+# sam-3d-reconstruction
